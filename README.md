@@ -6,5 +6,5 @@ CRISPRi/a screening in human stem cell derived hypothalamic cell populations </i
 
 Previously a PhD student at the University of Sydney<br>
 <i>Molecular mechanisms of L-proline in regulating pluripotent states in mouse embryonic stem cells</br>
-Statistical modelling
-RNAseq of cell states along the pluripotency continuum
+Statistical modelling</br>
+RNAseq of cell states along the pluripotency continuum</i>
