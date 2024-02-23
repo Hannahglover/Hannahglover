@@ -1,4 +1,4 @@
-<b>Hannah Glover :wave:</b>
+<b>Hannah Glover :wave:</b><br>
 :chart_with_upwards_trend:<i> Currently a Senior Computational Biologist at Tempus AI</i>
 
 <br><b>Former:</b><br>
